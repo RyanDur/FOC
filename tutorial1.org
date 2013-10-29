@@ -1,7 +1,6 @@
-#+BEGIN_CENTER
-* Fundamentals of Computing
-** Tutorial 1 (15th October 2013)
-#+END_CENTER
+#+TITLE: Fundamentals of Computing
+#+TITLE: Tutorial 1 (15th October 2013)
+
 
 **** 1. Brown, Jones and Smith are suspected of income tax evasion. They testify under oath as follows:
 
