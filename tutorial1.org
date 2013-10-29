@@ -3,7 +3,8 @@
 ** Tutorial 1 (15th October 2013)
 #+END_CENTER
 
-**** 1. Brown, Jones and Smith are suspected of income tax evasion. They testify under oath as follows:
+**** 1. Brown, Jones and Smith are suspected of income tax evasion. \\
+     They testify under oath as follows:
 
       Brown: Jones is guilty and Smith is innocent.
       Jones: If Brown is guilty, then so is Smith.
