@@ -1,5 +1,7 @@
+#+BEGIN_CENTER
 * Fundamentals of Computing
 ** Tutorial 1 (15th October 2013)
+#+END_CENTER
 
 **** 1. Brown, Jones and Smith are suspected of income tax evasion. They testify under oath as follows:
 
@@ -10,6 +12,7 @@
 **** Assuming everyones testimony is true, who is innocent and who is guilty?
 
 ***** answer:
+
      A = Jones Guilty
      B = Smith Guilty
      C = Brown Guilty
