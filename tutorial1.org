@@ -108,6 +108,7 @@
 **** 5. Determine whether the formulas A ∧ (B ⊕ C) and (A ∧ B) ⊕ (A ∧ C) are equivalent,
      where ⊕ denotes ‘exclusive OR’ (or ‘XOR’).
 
+     A ∧ (B ⊕ C)
      | A B C | A | ∧ | (B | ⊕ | C) |
      |-------+---+---+----+---+----|
      | 0 0 0 |   | 0 |    | 0 |    |
@@ -119,6 +120,7 @@
      | 1 0 1 |   | 1 |    | 1 |    |
      | 1 1 1 |   | 0 |    | 0 |    |
 
+     (A ∧ B) ⊕ (A ∧ C)
      | A B C | (A | ∧ | B) | ⊕ | (A | ∧ | C) |
      |-------+----+---+----+---+----+---+----|
      | 0 0 0 |    | 0 |    | 0 |    | 0 |    |
