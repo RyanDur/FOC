@@ -4,11 +4,11 @@
 
 **** 1. Brown, Jones and Smith are suspected of income tax evasion. They testify under oath as follows:
 
-     #+begin_example
+
      - Brown: Jones is guilty and Smith is innocent.
      - Jones: If Brown is guilty, then so is Smith.
      - Smith: Im innocent, but at least one of the others is guilty.
-     #+end_example
+
 
 **** Assuming everyones testimony is true, who is innocent and who is guilty?
 
@@ -17,7 +17,7 @@
      A = Jones Guilty
      B = Smith Guilty
      C = Brown Guilty
-
+#+begin_example
      (A ∧ ¬B)
      | A B | A | ∧ | ¬B |
      |-----+---+---+----|
@@ -25,7 +25,7 @@
      | 0 1 |   | 0 |  0 |
      | 1 0 |   | 1 |  1 |
      | 1 1 |   | 0 |  0 |
-
+#+end_example
      (B → C)
      | B C | B | → | C |
      |-----+---+---+---|
